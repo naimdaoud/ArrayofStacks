@@ -1,0 +1,3 @@
+﻿  Problem3_Stack.cpp
+C:\Users\Administrator\Desktop\Personal\Info2206\Project\Problem3_Stack\Problem3_Stack\Problem3_Stack.cpp(125,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Problem3_Stack.vcxproj -> C:\Users\Administrator\Desktop\Personal\Info2206\Project\Problem3_Stack\Debug\Problem3_Stack.exe
